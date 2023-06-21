@@ -1,6 +1,6 @@
 // const { sequelize } = require(".");
 // const navigation = require("./navigation");
-
+change for git
 
 module.exports=(sequelize,DataTypes)=>{
     const HandWriting = sequelize.define('handWritings',{
