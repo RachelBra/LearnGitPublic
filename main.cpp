@@ -6,5 +6,4 @@ print("❤")
 //jbhvvv
     //bfbebf
 
-print(a[i])
-{
+print(a[i]);
