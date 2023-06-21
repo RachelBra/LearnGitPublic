@@ -1,0 +1,4 @@
+ git config --global user.name "RachelBra"
+ git config --global user.email racheliur10@gmail.com
+git clone https://github.com/RachelBra/LearnGitPublic.git
+git status
