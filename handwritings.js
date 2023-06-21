@@ -1,6 +1,8 @@
 // const { sequelize } = require(".");
 // const navigation = require("./navigation");
 change for git
+let's crreate a conflict!!!!
+
 
 module.exports=(sequelize,DataTypes)=>{
     const HandWriting = sequelize.define('handWritings',{
